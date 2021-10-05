@@ -1,0 +1,1 @@
+You don't have to find any weird vulnerability. Just hash the string. And do it quickly. Like, in less than a second.
